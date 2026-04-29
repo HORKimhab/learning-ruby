@@ -1,6 +1,8 @@
 # learning-ruby
 Learning ruby
 
+[Contact via telegram](https://t.me/HKimhab)
+
 # 📚 Resources to Learn Ruby
 
 A curated list of resources for learning Ruby, from beginner to advanced.
