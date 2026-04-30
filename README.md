@@ -35,6 +35,7 @@ A curated list of resources for learning Ruby, from beginner to advanced.
 - [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) — Exercise-based introduction for beginners.
 - [The Well-Grounded Rubyist (excerpts)](https://www.manning.com/books/the-well-grounded-rubyist-third-edition) — One of the most respected Ruby books; covers Ruby deeply.
 - [Best book ruby](./the-best-ruby-books/books/) - Credit: https://github.com/maniramakumar/the-best-ruby-books
+- More: 'intitle:"index of" "ruby" (pdf|epub)' (Google dork)
 
 ### Paid Books (Highly Recommended)
 - *Programming Ruby 3.2 (The Pickaxe Book)* – Dave Thomas — The definitive Ruby reference.
